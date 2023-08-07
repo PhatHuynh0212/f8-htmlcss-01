@@ -583,13 +583,16 @@ a {
     font-weight: 700;
 }
 
-.footer .list,
-.footer .desc {
+.footer .list {
     margin-top: 42px;
 }
 
+.footer .desc {
+    margin-top: 36px;
+}
+
 .footer .column .item {
-    margin-top: 18px;
+    margin-top: 25px;
 }
 
 .footer .column .item a {
@@ -607,7 +610,7 @@ a {
 }
 
 .footer .column .social {
-    margin-top: 40px;
+    margin-top: 36px;
 }
 
 .footer .row:last-child {
